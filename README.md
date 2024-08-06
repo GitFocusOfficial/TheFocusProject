@@ -29,5 +29,6 @@ Some of the things you can do to contribute to our curriculum include:
 **Happy Coding!**
 
 See license.md for usage details.
+
 ---
 Created by: [Deo Manzano Ranay](https://www.facebook.com/deomranayofficialfbaccount/) a.k.a. "Chase"
